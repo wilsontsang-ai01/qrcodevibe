@@ -1,0 +1,5 @@
+{
+  "name": "Vibe QR Code Generator",
+  "description": "A modern, AI-powered QR code generator featuring Gemini-driven natural language input, customizable styling, and dark mode support.",
+  "requestFramePermissions": []
+}
